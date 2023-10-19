@@ -1,8 +1,8 @@
 package huobi
 
 import (
-	"github.com/nntaoli-project/goex/v2/huobi/futures"
-	"github.com/nntaoli-project/goex/v2/huobi/spot"
+	"github.com/v2crypto/goex/v2/huobi/futures"
+	"github.com/v2crypto/goex/v2/huobi/spot"
 )
 
 type HuoBi struct {

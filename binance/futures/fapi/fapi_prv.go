@@ -2,12 +2,12 @@ package fapi
 
 import (
 	"errors"
-	"github.com/nntaoli-project/goex/v2/binance/common"
-	"github.com/nntaoli-project/goex/v2/httpcli"
-	"github.com/nntaoli-project/goex/v2/logger"
-	. "github.com/nntaoli-project/goex/v2/model"
-	"github.com/nntaoli-project/goex/v2/options"
-	"github.com/nntaoli-project/goex/v2/util"
+	"github.com/v2crypto/goex/v2/binance/common"
+	"github.com/v2crypto/goex/v2/httpcli"
+	"github.com/v2crypto/goex/v2/logger"
+	. "github.com/v2crypto/goex/v2/model"
+	"github.com/v2crypto/goex/v2/options"
+	"github.com/v2crypto/goex/v2/util"
 	"net/http"
 	"net/url"
 )

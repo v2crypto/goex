@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 	"github.com/buger/jsonparser"
-	"github.com/nntaoli-project/goex/v2/logger"
-	. "github.com/nntaoli-project/goex/v2/model"
 	"github.com/spf13/cast"
+	"github.com/v2crypto/goex/v2/logger"
+	. "github.com/v2crypto/goex/v2/model"
 	"time"
 )
 

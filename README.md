@@ -13,10 +13,10 @@
 package main
 
 import (
-	goexv2 "github.com/nntaoli-project/goex/v2"
-	"github.com/nntaoli-project/goex/v2/logger"
-	"github.com/nntaoli-project/goex/v2/model"
-	"github.com/nntaoli-project/goex/v2/options"
+	goexv2 "github.com/v2crypto/goex/v2"
+	"github.com/v2crypto/goex/v2/logger"
+	"github.com/v2crypto/goex/v2/model"
+	"github.com/v2crypto/goex/v2/options"
 	"log"
 )
 
